@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #224941 url("./img/CalmMountain.jpg") no-repeat center
+  background: #3c8576 url("./img/CalmMountain.jpg") no-repeat center
     center/cover;
   color: rgb(128, 4, 76);
   font-family: "Montserrat", sans-serif;
@@ -49,7 +49,7 @@ body {
 
 /*This is the solid color outer circle*/
 .circle {
-  background-color: #010f1c;
+  background-color: #08223a;
   height: 100%;
   width: 100%;
   position: absolute;
