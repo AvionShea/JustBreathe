@@ -11,19 +11,19 @@ function breatheAnimation()
 {
     text.innerText = 'Breathe In';
     container.className = 'container grow'; //growth animation class name
-    console.log('breath in');
+    // console.log('breath in');
 
 
  //timeout for hold function
  setTimeout( () => {
      text.innerText = 'Hold';
-     console.log('hold')
+     // console.log('hold')
 
      //timeout for breath out
      setTimeout( () => {
          text.innerText = 'Breathe Out';
          container.className = 'container shrink';
-         console.log('hold')
+         // console.log('hold')
      }, holdTime);
  }, breatheTime);
 
