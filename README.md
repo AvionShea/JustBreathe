@@ -1,6 +1,6 @@
 # Just Breathe
 
-Visualizer that assist users with de-stressing.
+Visualizer that assists users with de-stressing.
 
 ## Table of contents
 
@@ -10,7 +10,7 @@ Visualizer that assist users with de-stressing.
 
 ## Screenshot
 
-![](img/screenshot.PNG)
+![](Img/screenshot.PNG)
 
 ## Built with
 
